@@ -3,4 +3,5 @@ uvicorn
 tensorflow
 numpy
 opencv-python-headless
+python-multipart
 
